@@ -10,7 +10,7 @@ export default function Header() {
                 <Row>
                     <Col md={12}>
                         <ul className="menu">
-                            <li><Link to ="/">Home</Link></li>
+                            <li><Link to ="/Home">Home</Link></li>
                             <li><Link to ="/About">About</Link></li>
                             <li><Link to ="/Contact">Contact</Link></li>
                         </ul>
