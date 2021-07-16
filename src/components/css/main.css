@@ -1,0 +1,22 @@
+ul.menu {
+  padding-right: 3%;
+  /* WHY CAN'T I CENTER THE MENU??? */
+}
+
+ul.menu li {
+  display: inline-block;
+  list-style: none;
+  padding: 15px 20px;
+  font-size: 20px;
+}
+
+body {
+  height: 100vh;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
