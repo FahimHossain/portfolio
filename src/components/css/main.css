@@ -20,3 +20,10 @@ body {
   left: 0;
   right: 0;
 }
+
+.pht img {
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 5px;
+  width: 600px;
+}

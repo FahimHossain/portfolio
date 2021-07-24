@@ -13,6 +13,7 @@ export default function Header() {
                             <li><Link to ="/Home">Home</Link></li>
                             <li><Link to ="/About">About</Link></li>
                             <li><Link to ="/Contact">Contact</Link></li>
+                            <li><Link to ="/Photography">Photography</Link></li>
                         </ul>
                     </Col>
                 </Row>
