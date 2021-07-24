@@ -4,7 +4,7 @@ import React from 'react'
 export default function Home() {
     return (
         <div>
-            <h1>Amateuer Mobile Photography</h1>
+            <h1>Amateur Mobile Photography</h1>
             
             <br></br><br></br><br></br><br></br><br></br><br></br><br></br>
     <div class="pht">
